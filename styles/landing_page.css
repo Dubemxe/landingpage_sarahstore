@@ -16,7 +16,7 @@ html, body {
 }
 
 #search-bar {
-  width: 360px;
+  width: 400px;
   font-size: 16px;
   height: 38px;
   padding-left: 15px;
@@ -60,7 +60,7 @@ html, body {
   width: 95px;
   height: 40px;
   background-color: rgb(254, 189, 105);
-  margin-left: 155px;
+  margin-left: 170px;
   border: none;
   color: rgb(0, 0, 0);
   border-radius: 6px;
@@ -161,7 +161,7 @@ h3{
   width: 155px;
   background-color: rgba(31, 31, 255, 0.897);
   border: none;
-  height: 55px;
+  height: 45px;
   margin-top: 16px;
   color: azure;
   font-weight: bold;
@@ -174,5 +174,5 @@ h3{
 }
 
 .write_up {
-  margin-right: 160px;
+  margin-right: 200px;
 }
